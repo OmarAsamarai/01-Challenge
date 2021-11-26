@@ -3,7 +3,7 @@
 ## <li>The Horiseon Marketing Angency required code  refactering of their webpage to make it more accessible and to improve teh SEO.
 ---
 
-## <li>The work we have done in this project was:
+## <li>The work we have done in this project:
 
 ### <ul><li>Using the semanting alement which are compatible with the assessibility standards and the search engines.
 ### <ul><li> Making sure that all the links in the webpage work properly.
@@ -14,7 +14,7 @@
 ### <ul><li>Improve the caodebase of the page in a way make it cleaner.
 ### <ul><li>The big image uder the header stayed as a background because it is only a design and not a part of the content, otherwise, it would be in the html file with alt name.
 ---
-## <li>This work was accomplished 
+## <li>This work was accomplished by me Omar Asamarai
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
